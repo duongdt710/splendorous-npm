@@ -1,0 +1,33 @@
+{
+  "name": "splendorous-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-concat": "^2.6.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "concat": "^1.0.3",
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-minify": "^3.1.0",
+    "gulp-minify-css": "^1.2.4",
+    "imagemin-pngquant": "^7.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/duongdt710/splendorous-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongdt710/splendorous-npm/issues"
+  },
+  "homepage": "https://github.com/duongdt710/splendorous-npm#readme"
+}
