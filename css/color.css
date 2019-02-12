@@ -1,0 +1,37 @@
+.nav--logo {
+  color: #979797; }
+
+.nav--logo h1 {
+  color: #96739f; }
+
+.nav ul li a:hover {
+  color: white;
+  background: #7e5c88; }
+
+.nav ul a {
+  color: #979797; }
+
+.slider button {
+  background: #7e5c88;
+  color: white; }
+
+.content-product2:hover {
+  color: white;
+  background-color: #7e5c88; }
+
+.content__item2 .col3 .text span {
+  color: #7e5c88; }
+
+.content__item2 .row3 .Name .text i {
+  color: #7e5c88; }
+
+.content__item2 .text {
+  color: #a09a9a; }
+
+.footer .link--icon i:hover {
+  color: #7e5c88; }
+
+.text-color {
+  color: #979797; }
+
+/*# sourceMappingURL=color.css.map */

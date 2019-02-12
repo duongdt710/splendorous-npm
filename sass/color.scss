@@ -1,0 +1,69 @@
+$color-1: #979797;
+$color-2: #96739f;
+$color-3: #7e5c88;
+$color-4: #a09a9a;
+
+.nav {
+		&--logo {
+				color: $color-1;
+			& h1 {
+				color: $color-2;
+			}
+		}
+	ul {
+		li a:hover {
+			color: white;
+			background: $color-3;
+		}
+		a {
+			color: $color-1;
+		}
+	}
+}
+.slider {
+		& button {
+	    background: $color-3;
+	    color: white;
+		}
+}
+.content {
+	&-product2:hover {
+		color: white;
+		background-color: $color-3;
+	}
+	&__item2 {
+		// &-product {
+			& .col3 {
+				& .text {
+					& span {
+						color: $color-3;
+						}
+				}
+			}
+			& .row3 {
+				& .Name {
+					& .text {
+						& i {
+							color: $color-3;
+						}
+					}
+				}
+			}
+			& .text {
+				color: $color-4;
+			}
+		// }
+	}
+}
+.footer {
+	& .link--icon {
+		& i {
+			&:hover {
+				color: $color-3;
+			}
+		}
+	}
+}
+.text-color {
+	color: $color-1;
+}
